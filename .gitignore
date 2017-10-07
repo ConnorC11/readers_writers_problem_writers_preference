@@ -10,4 +10,5 @@
 # Ignore unnecessary LaTeX output files
 **/_minted*
 /report_RTOS_lab2.aux 
-/report_RTOS_lab2.log 
+/report_RTOS_lab2.log
+/report_RTOS_lab2.tex 
